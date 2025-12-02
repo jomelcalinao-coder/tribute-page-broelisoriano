@@ -1,2 +1,3 @@
 # tribute-page-broelisoriano
-A tribute page to my favorite preacher
+
+A tribute page of my favorite preacher
